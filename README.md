@@ -7,7 +7,7 @@
 
 ## [Trabalho 1- parte 2](https://github.com/franciscoeepgal/trabalhos/blob/master/img/t1b.jpg)
 
-## [Trabalho 2](https://github.com/franciscoeepgal/trabalhos/blob/master/img/t2.jpg)
+## [Trabalho 2](https://github.com/franciscoeepgal/trabalhos/blob/master/img/tb2.jpg)
 
 ## [Trabalho 3](https://github.com/franciscoeepgal/trabalhos/blob/master/img/t3.jpg)
 
