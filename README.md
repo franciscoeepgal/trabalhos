@@ -14,8 +14,4 @@
 ## [Trabalho 4](https://github.com/franciscoeepgal/trabalhos/blob/master/img/t4.jpg)
 
 *** 
-## Resolução em vídeo dos trabalhos: (será disponibilizado dia 15 ou 16/12 nos links abaixo)
-trabalho 1
-trabalho 2
-trabalho 3
-trabalho 4
+
